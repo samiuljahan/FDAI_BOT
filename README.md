@@ -3,4 +3,4 @@ This is the code that own the Capegimini SpaceRobots Programming Contest held at
 
 ## Robot in action
 
-To see a sample of the robot in action open the robot.jpg file in the img folder
+To see a sample image of the robot open the robot.JPG file in the img folder
